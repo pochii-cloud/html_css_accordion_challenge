@@ -43,7 +43,7 @@ body{
    position: relative;
    align-items: center;
    justify-content: center;
-   margin-left: -400px;
+   margin-left: -350px;
    height: 300px;
 
     /* height: 250px;
@@ -55,13 +55,14 @@ body{
    position: absolute;
    margin-left: -400px;
  margin-top: -30px;
+ 
 
   
 } 
 .images{
     display: flex;
     align-items: center;
-    justify-content: center;
+    
     
 }
 

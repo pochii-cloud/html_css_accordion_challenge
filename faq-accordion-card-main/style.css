@@ -94,6 +94,9 @@ span img{
 summary::marker{
     content: '';
 }
+.active{
+    transform: rotate(180deg);
+}
 hr{
     opacity: .6;
 }
